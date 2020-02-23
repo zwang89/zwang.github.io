@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Zhi Wang"
   avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Zhi is a data scientist and Ph.D. candidate in healthcare. His research focuses on the current
+   opioid epedmic."
   location         : "Bloomington, IN"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
