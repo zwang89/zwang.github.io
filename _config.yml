@@ -168,6 +168,7 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+encoding: UTF-8
 
 # Defaults
 defaults:
